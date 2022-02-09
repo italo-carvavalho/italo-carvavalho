@@ -24,19 +24,19 @@ Hi, I'm Morgana Albuquerque, a fullstack developer from  Recife, Pernambuco (ðŸ‡
 
 ### :rocket: Hard Skills:
 
-![Html](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=Html5&logoColor)![Css](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=007396)![Javascipt](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript&logoColor)![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=Node--JS&logoColor)![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor)![PHP](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MYSQL&logoColor=ffffff)![PHP](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor)
+![Html](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=Html5&logoColor)	![Css](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=007396)	![Javascipt](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript&logoColor)	![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=Node--JS&logoColor)	![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor)	![PHP](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MYSQL&logoColor=ffffff)	![PHP](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor)
 
 
 
 ### :computer_mouse: Softwares: 
 
-![Sublime](https://img.shields.io/badge/-SublimeText-DDDDDD?style=flat&logo=SublimeText&logoColor)![VSCode](https://img.shields.io/badge/-VS Code-DDDDDD?style=flat&logo=VisualStudio&logoColor=0077B5)![VS](https://img.shields.io/badge/-Visual Studio-DDDDDD?style=flat&logo=VisualStudio&logoColor=0077B5)
+![Sublime](https://img.shields.io/badge/-SublimeText-DDDDDD?style=flat&logo=SublimeText&logoColor)	![VSCode](https://img.shields.io/badge/-VS Code-DDDDDD?style=flat&logo=VisualStudio&logoColor=0077B5)	![VS](https://img.shields.io/badge/-Visual Studio-DDDDDD?style=flat&logo=VisualStudio&logoColor=0077B5)
 
 
 
 ### ðŸ§ Interest also in: 
 
-![PHP](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker&logoColor)![PHP](https://img.shields.io/badge/-Open Shift-333333?style=flat&logo=RedHatOpenShift&logoColor=ff0000)![PHP](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes&logoColor=ffffff)![PHP](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor)![PHP](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor)![PHP](https://img.shields.io/badge/-BlockChain-333333?style=flat&logo=Blockchain&logoColor)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker&logoColor)	![OpenShift](https://img.shields.io/badge/-Open Shift-333333?style=flat&logo=RedHatOpenShift&logoColor=ff0000)	![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes&logoColor=ffffff)	![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor)	![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor)	![PHP](https://img.shields.io/badge/-BlockChain-333333?style=flat&logo=Blockchain&logoColor)
 
 
 
