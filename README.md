@@ -1,8 +1,6 @@
 # Hi there, nice to see you here. 👋 
 
----
-
-Hi, I'm Morgana Albuquerque, a fullstack developer from  Recife, Pernambuco (🇧🇷). Ex-aspiring Jiujitsu fighter but still in love :kimono:, who found herself in programming in the midst of self-taught studies in web development. I'm currently studying Systems for the Internet 🎓 at Federal Institute of Education Science and Technology of Pernambuco - IFPE.
+Hi, I'm Ítalo Carvalho, a fullstack developer from  Recife, Pernambuco (🇧🇷). Ex-aspiring Jiujitsu fighter:kimono: but still in love, who found herself in programming in the midst of self-taught studies in web development. I'm currently studying Systems for the Internet 🎓 at Federal Institute of Education Science and Technology of Pernambuco - IFPE.
 
 -  :man: Pronouns: He/HIs 
 - :kimono: For fun: Jiujitsu 
