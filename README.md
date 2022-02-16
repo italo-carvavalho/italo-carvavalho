@@ -17,6 +17,8 @@ Hi, I'm Ítalo Carvalho, a fullstack developer from  Recife, Pernambuco (🇧�
 
 ![alt text](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=italo-carvavalho&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true)
 
+![Snake animation](https://github.com/italo-carvavalho/italo-carvavalho/blob/output/github-contribution-grid-snake.svg)
+
 ### :rocket: Hard Skills:
 
 ![Html](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=Html5&logoColor)	![Css](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=007396)	![Javascipt](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript&logoColor)	![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=Node--JS&logoColor)	![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor)	![PHP](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MYSQL&logoColor=ffffff)	![PHP](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor)
